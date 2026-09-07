@@ -1,12 +1,21 @@
 # campanha-2026setembro
 
-Local onde são colocadas as peças que estão prontas para serem agendadas no Metricool.
+Registo público das peças das redes sociais da ALLIMINDS — **as que já foram
+publicadas e as que aguardam publicação.**
 
-**O que está aqui foi agendado, e o que foi agendado foi publicado.** Founder,
-06/09/2026. A frase de cima, sozinha, lê-se como uma antecâmara — como se as peças
-esperassem aqui por uma decisão. Não é isso: esta pasta é o registo do que saiu para
-as redes.
+**O Metricool vai buscar aqui as peças, por endereço `raw`.** Só entram peças
+publicadas ou prontas a publicar: não entra material de marca, não entram
+originais, não entram ficheiros de trabalho.
 
-Quem quiser saber que ficheiro foi publicado num dia de Setembro, olha para aqui.
-A pasta `publicado/` do `ALLI-SocialMedia` guarda o mesmo para Agosto e ainda não
-foi actualizada para Setembro.
+**Uma peça que aqui não esteja não está pronta.** Não se procura noutro sítio,
+não se usa uma cópia que se tenha à mão — pergunta-se à Founder.
+
+---
+
+**Nomes.** A convenção em vigor, fixada pela Founder a 07/09/2026, é
+`YYYYMMDD_AUDIENCE_TERRITORY_FORMAT_v<N>.<ext>` — a data primeiro, para ordenar
+sozinha, e o número da montagem no fim. Está no `MKT_PROMPT_MASTER_DE_PRODUCAO_VISUAL`,
+§9 e §11.
+
+**As peças de 01 a 06/09/2026 estão na forma antiga**, `ALLI_<dia><mês>_<TEMA>_v<N>` —
+e não se renomeiam: já foram publicadas.
