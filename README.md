@@ -13,9 +13,10 @@ não se usa uma cópia que se tenha à mão — pergunta-se à Founder.
 ---
 
 **Nomes.** A convenção em vigor, fixada pela Founder a 07/09/2026, é
-`YYYYMMDD_AUDIENCE_TERRITORY_FORMAT_v<N>.<ext>` — a data primeiro, para ordenar
-sozinha, e o número da montagem no fim. Está no `MKT_PROMPT_MASTER_DE_PRODUCAO_VISUAL`,
-§9 e §11.
+`YYYYMMDD_AUDIENCE_TERRITORY_FORMAT_REDE_v<N>.<ext>` — a data primeiro, para ordenar
+sozinha; a rede (`IG`, `FB` ou `IGFB`, quando o mesmo ficheiro serve as duas), para se
+saber onde a peça vai; e o número da montagem no fim. Está no
+`MKT_PROMPT_MASTER_DE_PRODUCAO_VISUAL`, §9 e §11.
 
 **As peças de 01 a 06/09/2026 estão na forma antiga**, `ALLI_<dia><mês>_<TEMA>_v<N>` —
 e não se renomeiam: já foram publicadas.
